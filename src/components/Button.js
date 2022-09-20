@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Button = () => {
+const Button = (prop) => {
   return (
     <a href="#" className="btn btn-primary">Go somewhere</a>
   )
